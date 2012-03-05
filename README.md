@@ -3,7 +3,7 @@
 A simple command line script for OSX to generate multiple throw-away Google Chrome incogito sessions.
 
 ```bash
-    incognito http://bytespider.eu
+    incognitus http://bytespider.eu
 ```
 
 Released under the MIT license.
