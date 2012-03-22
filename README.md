@@ -1,6 +1,6 @@
 #Incognitus
 
-A simple command line script for OSX to generate multiple throw-away Google Chrome incogito sessions.
+A simple command line script for OSX to generate multiple throw-away Google Chrome incogito sessions. Free of plugins and history.
 
 ```bash
 incognitus http://bytespider.eu
